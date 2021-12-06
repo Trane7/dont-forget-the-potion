@@ -1,0 +1,22 @@
+{
+  "name": "dont-forget-the-potion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trane7/dont-forget-the-potion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trane7/dont-forget-the-potion/issues"
+  },
+  "homepage": "https://github.com/Trane7/dont-forget-the-potion#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}

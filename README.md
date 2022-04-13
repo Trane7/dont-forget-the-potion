@@ -13,6 +13,7 @@
 - Node.js
 - JSON
 - Jest
+- JavaScript
 
 ## Contributors
 - **[GitHub profile](https://github.com/Trane7)**
